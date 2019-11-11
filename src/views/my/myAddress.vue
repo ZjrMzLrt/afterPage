@@ -1,7 +1,7 @@
 <template>
   <div id="myAddress">
       <div class="el-main-div">
-            <p>收货地址</p>
+            <p>精品课程</p>
             <div class="el-main-div-div">
                 数据
             </div>

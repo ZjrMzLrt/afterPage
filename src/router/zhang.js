@@ -11,5 +11,6 @@ let arr = [
     path: '/myAddress',
     component: resolve => require(['@/views/my/myAddress'], resolve)
   }
+  
 ]
 export default arr
